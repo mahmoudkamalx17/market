@@ -1,0 +1,7 @@
+{
+      "explorer.excludeGitIgnore": true,
+      "files.exclude": {
+            "**/*.freezed.dart": true,
+            "**/*.g.dart": true
+      }
+}
